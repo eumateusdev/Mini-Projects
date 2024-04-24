@@ -5,6 +5,16 @@ Para visualização, clique no link.
 
 <div style="display:inline-block;vertical-align:top">
     <br>
+    <img src="https://i.imgur.com/4BuH8w4.png" alt="Rá-Tim-Bum+" align="left" width="500"/>
+</div>
+
+<h2><a href="https://mini-projects-ratimbum-plus.vercel.app/" target="_blank">Rá-Tim-Bum+</a></h2>
+<h6>O curso "CSS: Flexbox e layouts responsivos" da Alura nos traz o desafio de realizar a responsavidade da plataforma AluraPlay. Ao fim do desafio, decidi alterar o projeto para a tematica do seriado famoso dos anos 90, "Castelo Rá-Tim-Bum".
+<br><br>O site é responsivo.</h6>
+<br><br><br>
+
+<div style="display:inline-block;vertical-align:top">
+    <br>
     <img src="https://i.imgur.com/sXo8Ftf.png" alt="Alura Books" align="left" width="500"/>
 </div>
 
